@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beershowsite/static/css/main.159c3e1f.css",
+    "main.js": "/beershowsite/static/js/main.401b0028.js",
+    "static/js/488.ad17f548.chunk.js": "/beershowsite/static/js/488.ad17f548.chunk.js",
+    "index.html": "/beershowsite/index.html",
+    "main.159c3e1f.css.map": "/beershowsite/static/css/main.159c3e1f.css.map",
+    "main.401b0028.js.map": "/beershowsite/static/js/main.401b0028.js.map",
+    "488.ad17f548.chunk.js.map": "/beershowsite/static/js/488.ad17f548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.159c3e1f.css",
+    "static/js/main.401b0028.js"
+  ]
+}
